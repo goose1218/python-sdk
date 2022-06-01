@@ -1,11 +1,11 @@
-Metadata-Version: 2.1
+Metadata-Version: 2.2
 Name: topggpy-pycord
 Version: 2.1
 Summary: A simple API wrapper for Top.gg written in Python.
 Home-page: https://github.com/top-gg/python-sdk
-Author: Assanali Mukhanov, Top.gg
+Author: goose, Top.gg
 Author-email: shivaco.osu@gmail.com
-Maintainer: Goose, Top.gg
+Maintainer: Norizon, Top.gg
 License: MIT
 Keywords: discord bot server list discordservers serverlist discordbots botlist topgg top.gg
 Platform: UNKNOWN
