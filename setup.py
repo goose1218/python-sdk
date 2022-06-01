@@ -31,11 +31,11 @@ with open("README.rst") as f:
 
 setup(
     name="topggpy-pycord",
-    author=f"{metadata.author}, Top.gg",
+    author=f"goose, Top.gg",
     author_email="shivaco.osu@gmail.com",
     maintainer=f"{metadata.maintainer}, Top.gg",
     url="https://github.com/top-gg/python-sdk",
-    version=metadata.version,
+    version=2.1,
     packages=find_packages(),
     license=metadata.license,
     description="A simple API wrapper for Top.gg written in Python.",
