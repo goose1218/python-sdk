@@ -30,7 +30,7 @@ with open("README.rst") as f:
     readme = f.read()
 
 setup(
-    name="topggpy",
+    name="topggpy-pycord",
     author=f"{metadata.author}, Top.gg",
     author_email="shivaco.osu@gmail.com",
     maintainer=f"{metadata.maintainer}, Top.gg",

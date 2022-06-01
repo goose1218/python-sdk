@@ -74,7 +74,7 @@ source_suffix = ".rst"
 master_doc = "index"
 
 # General information about the project.
-project = "topggpy"
+project = "topggpy-pycord"
 copyright = "2021, Assanali Mukhanov"
 author = "Assanali Mukhanov"
 
@@ -223,10 +223,10 @@ man_pages = [(master_doc, "topggpy", "topggpy Documentation", [author], 1)]
 texinfo_documents = [
     (
         master_doc,
-        "topggpy",
+        "topggpy-pycord",
         "topggpy Documentation",
         author,
-        "topggpy",
+        "topggpy-pycord",
         "One line description of project.",
         "Miscellaneous",
     ),
