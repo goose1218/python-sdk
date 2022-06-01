@@ -17,17 +17,12 @@ A simple API wrapper for `Top.gg <https://top.gg/>`_ written in Python, supporti
 Installation
 ------------
 
-Install via pip (recommended)
+Install via pip
 
 .. code:: bash
 
-    pip3 install topggpy
+    pip3 install topggpy-pycord
 
-Install from source
-
-.. code:: bash
-
-    pip3 install git+https://github.com/top-gg/python-sdk/
 
 Documentation
 -------------
