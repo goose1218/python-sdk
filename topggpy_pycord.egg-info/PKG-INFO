@@ -1,11 +1,11 @@
 Metadata-Version: 2.1
 Name: topggpy-pycord
-Version: 2.0.0a1
+Version: 2.1
 Summary: A simple API wrapper for Top.gg written in Python.
 Home-page: https://github.com/top-gg/python-sdk
 Author: Assanali Mukhanov, Top.gg
 Author-email: shivaco.osu@gmail.com
-Maintainer: goose, Top.gg
+Maintainer: Goose, Top.gg
 License: MIT
 Keywords: discord bot server list discordservers serverlist discordbots botlist topgg top.gg
 Platform: UNKNOWN
@@ -45,17 +45,12 @@ A simple API wrapper for `Top.gg <https://top.gg/>`_ written in Python, supporti
 Installation
 ------------
 
-Install via pip (recommended)
+Install via pip
 
 .. code:: bash
 
-    pip3 install topggpy
+    pip3 install topggpy-pycord
 
-Install from source
-
-.. code:: bash
-
-    pip3 install git+https://github.com/top-gg/python-sdk/
 
 Documentation
 -------------
@@ -86,4 +81,5 @@ Examples
 --------
 
 For examples, follow the link `here <examples>`__
+
 
